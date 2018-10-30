@@ -1,0 +1,9 @@
+Snickers::19::A1::1.50
+Mtn.Dew::15::B2::2.00
+Twix::15::A2::1.75
+Dortitoes::18::A3::2.00
+Poptart::1::A4::2.50
+Dr.Pepper::2::B1::2.00
+Root Beer::18::B3::2.00
+Melted Icecream::1::A5::2.50
+Nuclear Waste::2::A6::2.00
